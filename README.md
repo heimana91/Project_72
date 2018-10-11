@@ -1,7 +1,8 @@
 # Project_72
 
-Important note
-For a visual platform to run or edit the function block then use Microsoft Visual Studio 2013 (as used for thie Research Project).
+Authors: Heimana Palmer and Sanath Vettivel (University of Auckland).
+
+Note: For a visual platform to run or edit the function block then use Microsoft Visual Studio 2013 (as used for thie Research Project).
 
 ------------------------------------------------------------------------------------------------------------------------------
 Bollinger Bands  (Decision Algorithm One)
