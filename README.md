@@ -5,11 +5,17 @@ For a visual platform to run or edit the function block then use Microsoft Visua
 
 ------------------------------------------------------------------------------------------------------------------------------
 Bollinger Bands  (Decision Algorithm One)
+
 Step 1: Download Bollinger Bands.zip
+
 Step 2: Extract files
+
 Step 3: Open Command Prompt, Navigate to the "run" file inside Bollinger Bands (Bollinger Bands\blokide_evstation\Generated\Run)
+
 Step 4: Compile using " gcc *.c -o top.exe "
+
 Step 5: Run code using " ./top.exe " or " top.exe "
+
 Step 6: Results can be found in the "run" folder called "Results.csv"
 
 Note: Kalpesh Chaudhari is a PHD student who worked on the use of the Bollinger Bands for ESS mode of operation selection.
@@ -26,25 +32,36 @@ All that is needed is to "swap the Basic Function Block (BFB) called "bfb_off_pe
 ------------------------------------------------------------------------------------------------------------------------------
 
 Box & Whisker (Decision Algorithm Two)
+
 Step 1: Download Box and Whisker.zip
+
 Step 2: Extract Files
+
 Step 3: Open Command Prompt, Navigate to the "run" file inside Box and Whisker (Box and Whisker\blokide_evstation\Generated\Run).
+
 Step 4: Compile using " gcc *.c -o top.exe "
+
 Step 5: Run code using " ./top.exe " or " top.exe "
+
 Step 6: Results can be found in the "run" folder called "Results.csv"
 
 ------------------------------------------------------------------------------------------------------------------------------
 
 Artificial Neural Network (Decision Algorithm Three)
 
-Important Note when working with Microsoft Studio if the Neural Network is re-compiled then 
+Note: when working with Microsoft Studio if the Neural Network is re-compiled then 
 include this following library #include "../run_ann.h" in the file called "BasicFunctionBlock1.c" in the run folder (Neural Network\blokide_evstation\Generated\Run)
 
 Step 1: Download Neural Network.zip
+
 Step 2: Extract Files
+
 Step 3: Open Command prompt and Navigate to the "run" file inside Neural Network (Neural Network\blokide_evstation\Generated\Run)
+
 Step 4: Compile using " gcc *.c ../*c ../libfixmath/*.c -o top.exe "
+
 Step 5: Run code using " ./top.exe " or " top.exe "
+
 Step 6: Results can be found in the "run" folder called "Results.csv"
 
 ------------------------------------------------------------------------------------------------------------------------------
