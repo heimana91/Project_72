@@ -2,7 +2,7 @@
 
 Authors: Heimana Palmer and Sanath Vettivel (University of Auckland).
 
-Note: For a visual platform to run or edit the function block then use Microsoft Visual Studio 2013 (as used for thie Research Project).
+Note: For a visual platform to run or edit the function block environment then use Microsoft Visual Studio 2013 (as used for this Research Project).
 
 ------------------------------------------------------------------------------------------------------------------------------
 Bollinger Bands  (Decision Algorithm One)
@@ -19,14 +19,13 @@ Step 5: Run code using " ./top.exe " or " top.exe "
 
 Step 6: Results can be found in the "run" folder called "Results.csv"
 
-Note: Kalpesh Chaudhari is a PHD student who worked on the use of the Bollinger Bands for ESS mode of operation selection.
+Note: Kalpesh Chaudhari is a Ph.D. student who worked on the use of the Bollinger Bands for ESS mode of operation selection.
 
 His Matlab code, which uses hardcoded mode of operation selection, is attached. Changes were made to ensure energy demanded at the charging station was always met by energy supplied by the grid and/or energy storage system.
 
 We matched the results of his related work using the IEC-61499 Function Blocks Standard.
 
-Our Function Block implementation which matches the results of his Matlab algorithm 
-is located inside the Bollinger Bands project. This was to verify our function block environment worked.
+Our Function Block implementation which matches the results of his Matlab algorithm is located inside the Bollinger Bands project. This was to verify our function block environment worked.
 
 All that is needed is to "swap the Basic Function Block (BFB) called "bfb_off_peak_types" within the Composite Function Block (CFB) called "cfb_controller.cfb" with seven other BFB called "bfb_(XXdayHereXX)_classifier.fb"(i.e. bfb_sat_classifier) then make sure it is connected to the needed ports from the CFB to the BFB called "bfb_controller_um"
 
