@@ -1,8 +1,26 @@
 # Project_72
 
-Authors: Heimana Palmer and Sanath Vettivel (University of Auckland).
+Authors: Heimana Palmer and Sanath Vettivel 
+The University of Auckland.
 
-Note: For a visual platform to run or edit the function block environment then use Microsoft Visual Studio 2013 (as used for this Research Project).
+>This repository contains the entirety of our research project compendium. It's contents are:
+
+>Bollinger Bands.zip (Code for this decision algorithm discussed in our research reports)
+
+>Box and Whisker.zip (Code for this decision algorithm discussed in our research reports)
+
+>MATLAB Algorithm and Excel Results.zip (Kalpesh's MATLAB algorithm after we had made our modifications. Also results from the three
+decision algorithms and the excel template used to calculate charging station costs. See formatingResultsREADME.txt inside.
+
+>Neural Network.zip (Code for this decision algorithm discussed in our research reports)
+
+>Poster-72-2.pdf (Project Exhibition Poster)
+
+>seminar.pptx (Project Seminar Slides)
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Note: For a visual platform to run or edit the function block environment then use Microsoft Visual Studio 2013 (as used for this Research Project). The rest of this README describes how to use the decision algorithms.
 
 Note: Kalpesh Chaudhari is a Ph.D. student who worked on the use of the Bollinger Bands for ESS mode of operation selection.
 
