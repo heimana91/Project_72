@@ -3,6 +3,8 @@
 Authors: Heimana Palmer and Sanath Vettivel 
 The University of Auckland.
 
+Link of this repository: git@github.com:heimana91/Project_72.git
+
 This repository contains the entirety of our research project compendium. It's contents are:
 
 >Bollinger Bands.zip (Code for this decision algorithm discussed in our research reports)
