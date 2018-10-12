@@ -3,7 +3,7 @@
 Authors: Heimana Palmer and Sanath Vettivel 
 The University of Auckland.
 
->This repository contains the entirety of our research project compendium. It's contents are:
+This repository contains the entirety of our research project compendium. It's contents are:
 
 >Bollinger Bands.zip (Code for this decision algorithm discussed in our research reports)
 
